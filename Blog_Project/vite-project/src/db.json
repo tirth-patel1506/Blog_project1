@@ -1,0 +1,6 @@
+{
+  "blogs": [
+    { "id": "1", "title": "My First Blog", "author": "Prapti", "body": "Hello world" },
+    { "id": "2", "title": "Second Blog", "author": "Prapti", "body": "React + json-server" }
+  ]
+}

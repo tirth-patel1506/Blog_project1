@@ -1,0 +1,19 @@
+{
+  "blogs": [
+    {
+      "name": "Toys",
+      "image": "https://nestatoys.in/cdn/shop/files/115_wooden_Building_Blocks.png?v=1783004765",
+      "description": "Nice Toys",
+      "author": "Tirth patel",
+      "id": "u2KE3x8Exeo"
+    },
+    {
+      "name": "weather",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXwOj9HZ0C5wQK-uPNTRZFILOeesIqd0yRgG1FePMhUW8GMVM94nKrjnua&s=10",
+      "description": "Weather",
+      "author": "Tirth Patel",
+      "id": "Si8hztknUK4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
